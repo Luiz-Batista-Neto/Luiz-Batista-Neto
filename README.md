@@ -1,7 +1,8 @@
-<h1> Olá, bem vindo ao meu perfil <h1>
+<h1> Olá, bem vindo ao meu perfil </h1>
 
 Tenho 26 anos, estudante de sistemas da informação, procurando experiencia na área de programação, atualmente estudando JS
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
