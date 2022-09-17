@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1> Olá, bem vindo ao meu perfil <h1>
 
-<!--
-**Luiz-Batista-Neto/Luiz-Batista-Neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 26 anos, estudante de sistemas da informação, procurando experiencia na área de programação, atualmente estudando JS
 
 Here are some ideas to get you started:
 
